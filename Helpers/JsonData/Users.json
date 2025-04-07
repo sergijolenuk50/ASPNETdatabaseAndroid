@@ -1,0 +1,32 @@
+﻿[
+    {
+        "UserName": "ivan_petrov",
+        "Email": "ivan@example.com",
+        "PhoneNumber": "+380671234567",
+        "Image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaGBuPVvjpJaol3JQ1_PiVFZcp32FNQ2BP5k3c-kFPF14bvjs3mW3od7WVQd4n6gCbsLUhRcdQDzTWyI8eguX707BuvYhyf398BCTO4Ebh7eBmLwQZCrexc5HBSVwoxYGRSo8NWYFfFJCI/s1600/%25D1%2585%25D0%25BC5.jpg",
+        "LastName": "Петров",
+        "FirstName": "Іван",
+        "Role": "Admin",
+        "Password": "Qwerty1-"
+    },
+    {
+        "UserName": "olga_sidorova",
+        "Email": "olga@example.com",
+        "PhoneNumber": "+380981234567",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosREMd9H9YkNe8JLjzHdDtok7RCSsPBrUIw&s",
+        "LastName": "Сидорова",
+        "FirstName": "Ольга",
+        "Role": "Admin",
+        "Password": "Qwerty1-"
+    },
+    {
+        "UserName": "serhiy_kovalenko",
+        "Email": "serhiy@example.com",
+        "PhoneNumber": "+380931234567",
+        "Image": "https://icf.listex.info/med/3a96ee37-80e2-c790-82fd-020c5d41c8c6.jpg",
+        "LastName": "Коваленко",
+        "FirstName": "Сергій",
+        "Role": "User",
+        "Password": "123456"
+    }
+]

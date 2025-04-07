@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0MZxwc55k9C9PmZNJQTXowFeUgWv4/E/xTHpnupOPRc=",
+  "Source": "WebCatAPI",
+  "BasePath": "_content/WebCatAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

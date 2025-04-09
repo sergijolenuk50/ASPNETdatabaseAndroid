@@ -22,6 +22,8 @@ builder.Services.AddIdentity<UserEntity, RoleEntity>(options =>
 }).AddEntityFrameworkStores<WebCatDbContext>().AddDefaultTokenProviders();
 
 builder.Services.AddScoped<IImageService, ImageService>();
+//де зустрічається інтерфейс буде створюватись обєкт
+builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
 // Add services to the container.
 
 builder.Services.AddControllers();

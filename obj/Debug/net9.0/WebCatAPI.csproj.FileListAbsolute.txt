@@ -148,3 +148,4 @@ C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\bin\Debug\net9.0\zh-Hans\Microso
 C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\bin\Debug\net9.0\Helpers\JsonData\Users.json
 C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\obj\Debug\net9.0\WebCatAPI.sourcelink.json

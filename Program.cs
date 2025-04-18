@@ -24,6 +24,11 @@ builder.Services.AddIdentity<UserEntity, RoleEntity>(options =>
 builder.Services.AddScoped<IImageService, ImageService>();
 //де зустрічається інтерфейс буде створюватись обєкт
 builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
+
+
+//automapper
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 // Add services to the container.
 
 builder.Services.AddControllers();

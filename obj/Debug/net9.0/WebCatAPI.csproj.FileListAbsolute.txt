@@ -150,3 +150,4 @@ C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\bin\Debug\net9.0\Helpers\JsonDat
 C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\obj\Debug\net9.0\WebCatAPI.sourcelink.json
 C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\hp\Desktop\Android\WebCatAPI\WebCatAPI\bin\Debug\net9.0\Helpers\JsonData\Categories.json

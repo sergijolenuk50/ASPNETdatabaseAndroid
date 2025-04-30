@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCatAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde4b19cf69c8a3bfdaa2f0e84f5a877b75c7940")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21518dd6ff13be6f30c1cb7dbc41b9d993eb08e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCatAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCatAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

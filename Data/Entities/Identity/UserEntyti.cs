@@ -12,4 +12,6 @@ public class UserEntity : IdentityUser<long>
     [StringLength(100)]
     public string? Firstname { get; set; }
     public virtual ICollection<UserRoleEntity>? UserRoles { get; set; }
+
+    public virtual ICollection<CategoryEntity>? Categories { get; set; }
 }

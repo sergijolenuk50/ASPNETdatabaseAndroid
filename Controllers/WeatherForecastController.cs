@@ -1,3 +1,4 @@
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebCatAPI.Controllers
@@ -17,7 +18,7 @@ namespace WebCatAPI.Controllers
         {
             _logger = logger;
         }
-
+        [Authorize]
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
